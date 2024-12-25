@@ -1,0 +1,10 @@
+{
+	"resource": "file:///home/project/.theia/settings.json",
+	"owner": "_generated_diagnostic_collection_name_#124f723d-edb6-40cf-97d1-922ef853de3f",
+	"severity": 2,
+	"message": "Property security.workspace.trust.untrustedFiles is not allowed.",
+	"startLineNumber": 5,
+	"startColumn": 4,
+	"endLineNumber": 5,
+	"endColumn": 45
+}
